@@ -1,4 +1,11 @@
 <?php
+// This PHP file receives input from the form and processes it.
+// The version of this code is being managed via Git using branches.
+// Initial changes are being made on the 'feature1' branch, which will later be merged into the 'development' branch for testing.
+?>
+
+
+<?php
 // Recebe os valores do formulário ou URL
 $a = isset($_GET['a']) ? intval($_GET['a']) : null;
 $b = isset($_GET['b']) ? intval($_GET['b']) : null;

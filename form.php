@@ -1,3 +1,10 @@
+<?php
+// This file is part of a project being versioned with Git.
+// Changes and updates to this code will be managed through branches,
+// allowing us to work on new features without affecting the main version of the project.
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
